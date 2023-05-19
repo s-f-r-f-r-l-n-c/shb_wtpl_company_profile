@@ -10,4 +10,4 @@ shb-wtpl-company-profile adalah template company profile dengan HTML, CSS, JS, d
 
 ## Screenshot
 
-![ScreenShot](.readme-assets/shb-wtpl-company-profile-1.png?raw=true)
+![ScreenShot](https://github.com/shbfrlnc/shbfrlnc-images/blob/main/gratisan/shb-wtpl-company-profile/screenshot-1.png?raw=true)
